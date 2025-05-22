@@ -22,7 +22,5 @@
 
 - 📧 Email: [71762305039@cit.edu.in](mailto:71762305039@cit.edu.in)  
 - 🔗 LinkedIn: [Purushothaman B](https://www.linkedin.com/in/purushothaman007/)  
-- 💻 GitHub: [Purushothaman007](https://github.com/Purushothaman007)
-
 
 
