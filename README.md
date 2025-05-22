@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💻 Purushothaman B
 
-<!--
-**Purushothaman007/Purushothaman007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
 
-Here are some ideas to get you started:
+- **Coimbatore Institute of Technology, Coimbatore**  
+  *B.E. Computer Science and Engineering*  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+- Python, Java, C, C++
+
+### 🌐 Web Development
+- **Frontend**: HTML, CSS  
+- **Backend**: FastAPI (Python)
+
+### 🗄️ Databases
+- SQL, MySQL
+
+## 📫 Connect With Me
+
+- 📧 Email: [71762305039@cit.edu.in](mailto:71762305039@cit.edu.in)  
+- 🔗 LinkedIn: [Purushothaman B](https://www.linkedin.com/in/purushothaman007/)  
+- 💻 GitHub: [Purushothaman007](https://github.com/Purushothaman007)
+
+
+
