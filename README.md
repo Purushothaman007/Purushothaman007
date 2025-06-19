@@ -18,7 +18,7 @@
 
 ### 🌐 Web Development
 - **Frontend**: HTML, CSS  , React
-- **Backend**: MySQL, JDBC , FastAPI (Python)
+- **Backend**: JDBC , Postgres , FastAPI (Python)
 
 ### 🗄️ Databases
 - SQL, MySQL
