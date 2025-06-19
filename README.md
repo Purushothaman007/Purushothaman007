@@ -17,8 +17,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 ### 🌐 Web Development
-- **Frontend**: HTML, CSS  
-- **Backend**: FastAPI (Python)
+- **Frontend**: HTML, CSS  , React
+- **Backend**: MySQL, JDBC , FastAPI (Python)
 
 ### 🗄️ Databases
 - SQL, MySQL
