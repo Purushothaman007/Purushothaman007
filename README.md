@@ -25,7 +25,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: [purushoth](mailto:purushothamanbala10@gmail.com)  
+- 📧 Email: [purushothamanbala10@gmail.com](mailto:purushothamanbala10@gmail.com)  
 - 🔗 LinkedIn: [Purushothaman B](https://www.linkedin.com/in/purushothaman007/)  
 
 
