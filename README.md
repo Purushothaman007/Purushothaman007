@@ -25,7 +25,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: [71762305039@cit.edu.in](mailto:71762305039@cit.edu.in)  
+- 📧 Email: [purushoth](mailto:purushothamanbala10@gmail.com)  
 - 🔗 LinkedIn: [Purushothaman B](https://www.linkedin.com/in/purushothaman007/)  
 
 
